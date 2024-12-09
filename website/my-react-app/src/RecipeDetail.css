@@ -1,0 +1,18 @@
+/* src/RecipeDetail.css */
+.recipe-detail-container {
+    padding: 20px;
+  }
+  
+  .recipe-detail-container h2 {
+    text-align: center;
+  }
+  
+  .recipe-detail-container ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .recipe-detail-container li {
+    margin: 10px 0;
+  }
+  

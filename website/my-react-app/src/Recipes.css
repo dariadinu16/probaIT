@@ -1,0 +1,35 @@
+/* src/Recipes.css */
+.recipes-container {
+    padding: 20px;
+  }
+  
+  .recipes-container h2 {
+    text-align: center;
+  }
+  
+  .recipes-container ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .recipes-container li {
+    margin: 15px 0;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+  }
+  
+  .recipes-container li h3 {
+    margin: 0;
+  }
+  
+  .recipes-container li a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  .recipes-container li a:hover {
+    text-decoration: underline;
+  }
+  
